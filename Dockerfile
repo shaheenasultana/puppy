@@ -4,4 +4,4 @@ MAINTAINER sofija
 
 RUN apt-get update
 
-CMD ["echo", "Hello World"]
+CMD ["echo", " HI Hello World"]
